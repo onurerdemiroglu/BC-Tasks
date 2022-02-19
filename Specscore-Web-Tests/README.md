@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/35347777/149663370-3e4768ea-0265-4621-
 #### 📝 SpecFlow LivingDoc Raporu
 ---
  
-![caseone](https://user-images.githubusercontent.com/35347777/154798518-e12929eb-2cc6-4d6c-ae3b-685757f1e89c.png)
+ ![caseone](https://user-images.githubusercontent.com/35347777/154798825-cefa3c9a-59b3-49bc-82c6-6a8246af11ae.png)
 
 **Sonuç :** `Başarılı bir şekilde login olunduğu görülmüştür. ✅`
 
