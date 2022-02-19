@@ -61,9 +61,11 @@ Scenario Outline: Valid Product Sorting Control
         | sortCriterion      |
         | Price: High to Low |
 ```
-  
-https://user-images.githubusercontent.com/35347777/149663418-cf983ef7-4f0e-4411-af3e-f3648c39e5b3.mp4
- 
+   
+
+https://user-images.githubusercontent.com/35347777/154799836-c55d5647-b68d-4349-b9e3-1e847ce95a9f.mp4
+
+
  
 #### 📝 SpecFlow LivingDoc Raporu
 ---
@@ -83,9 +85,9 @@ Scenario: Control The New Products Are Displayed On Each New Page
     Then   I scrolling down to page 10 and check see 60 products displayed per page
 ```
  
+ 
 
-
-https://user-images.githubusercontent.com/35347777/149663440-fb668dfd-0e4c-4196-8436-9ded405fdaed.mp4
+https://user-images.githubusercontent.com/35347777/154799849-ed80a18c-45a7-4e85-9833-bd0e159bf419.mp4
  
  
 #### 📝 SpecFlow LivingDoc Raporu
@@ -111,12 +113,10 @@ Scenario: Payment Check With "OXXO"
     And   I fill out the payment form
     Then  I should see the message we received your order
 ```
+   
+https://user-images.githubusercontent.com/35347777/154799862-ecdaba01-d73d-471f-ac9d-0701ce52b0e5.mp4
+
   
- 
-
-https://user-images.githubusercontent.com/35347777/149663530-d911c7b9-b66a-498e-9310-ab467cd7c246.mp4
-
-
 #### 📝 SpecFlow LivingDoc Raporu
 ---
   
@@ -136,9 +136,10 @@ Scenario: Customizing Product And Add To Basket
     And   I customize the product and click next button
     Then  I should see the product added to basket
 ```
- 
+  
 
-https://user-images.githubusercontent.com/35347777/149663465-b068750e-6b2e-413a-b93b-9d24582bd696.mp4
+https://user-images.githubusercontent.com/35347777/154799872-567cc2f0-bfb3-4080-bb57-851976ce86df.mp4
+ 
   
 #### 📝 SpecFlow LivingDoc Raporu
 ---
@@ -161,7 +162,9 @@ https://user-images.githubusercontent.com/35347777/149663465-b068750e-6b2e-413a-
 ```
    
 
-https://user-images.githubusercontent.com/35347777/149663471-fd8ce362-ce8e-4764-aebd-5d17d03e1686.mp4
+
+https://user-images.githubusercontent.com/35347777/154799884-b0e30f82-cdf5-4969-83cd-2c6edf1c9ff5.mp4
+ 
  
 #### 📝 SpecFlow Living Raporu
 ---
