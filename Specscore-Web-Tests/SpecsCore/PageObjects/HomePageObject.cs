@@ -13,7 +13,7 @@ public class HomePageObject
     {
         public static readonly By SubHeaderOverlay = By.CssSelector(".js-subheader-overlay");
         public static readonly By UserMenu = By.CssSelector(".user-process-toggle");
-        public static readonly By MyAccountMenu = By.CssSelector(".user-process-toggle");
+        public static readonly By MyAccountMenu = By.XPath("//a[@title='My Account']");
         public static readonly By SignInButton = By.ClassName("users-process-list__btn");
     }
 }
