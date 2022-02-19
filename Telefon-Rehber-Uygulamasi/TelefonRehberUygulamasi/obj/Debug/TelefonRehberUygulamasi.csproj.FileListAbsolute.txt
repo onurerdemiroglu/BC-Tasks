@@ -1,0 +1,40 @@
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.exe.config
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.exe
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.pdb
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csprojAssemblyReference.cache
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.Properties.Resources.resources
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csproj.GenerateResource.cache
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.exe
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.pdb
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.CreateForm.resources
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.Main.resources
+C:\Users\monst\source\repos\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.UpdateForm.resources
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.exe.config
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.exe
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.pdb
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\MaterialSkin.dll
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csprojAssemblyReference.cache
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.CreateForm.resources
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.Main.resources
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.UpdateForm.resources
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.Properties.Resources.resources
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csproj.GenerateResource.cache
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csproj.CopyComplete
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.exe
+C:\Users\monst\OneDrive\Masaüstü\Yeni klasör\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.pdb
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.exe.config
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.exe
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\TelefonRehberUygulamasi.pdb
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\bin\Debug\MaterialSkin.dll
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csprojAssemblyReference.cache
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.CreateForm.resources
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.Main.resources
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.UpdateForm.resources
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.Properties.Resources.resources
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csproj.GenerateResource.cache
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.csproj.CopyComplete
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.exe
+C:\Users\monst\OneDrive\Masaüstü\TelefonRehberUygulamasi\TelefonRehberUygulamasi\obj\Debug\TelefonRehberUygulamasi.pdb
