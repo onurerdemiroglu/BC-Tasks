@@ -38,8 +38,8 @@ https://user-images.githubusercontent.com/35347777/149663370-3e4768ea-0265-4621-
  
 #### 📝 SpecFlow LivingDoc Raporu
 ---
-
-![caseone](https://user-images.githubusercontent.com/35347777/149358705-40ce72e1-71f5-409f-b622-b37c338adb8f.PNG)
+ 
+![caseone](https://user-images.githubusercontent.com/35347777/154798518-e12929eb-2cc6-4d6c-ae3b-685757f1e89c.png)
 
 **Sonuç :** `Başarılı bir şekilde login olunduğu görülmüştür. ✅`
 
@@ -66,8 +66,8 @@ https://user-images.githubusercontent.com/35347777/149663418-cf983ef7-4f0e-4411-
  
 #### 📝 SpecFlow LivingDoc Raporu
 ---
-
-![casetwo](https://user-images.githubusercontent.com/35347777/149662317-9de5efc7-b6cb-4d3c-912c-ad34141e3f85.png) 
+ 
+![casetwo](https://user-images.githubusercontent.com/35347777/154798539-67b410ba-10a8-4529-a5df-56fa161592bb.png)
 
 **Sonuç :** `Ürünlerin fiyatları başarılı bir şekilde sıralandığı görülmüştür. ✅`
 
@@ -89,9 +89,8 @@ https://user-images.githubusercontent.com/35347777/149663440-fb668dfd-0e4c-4196-
  
 #### 📝 SpecFlow LivingDoc Raporu
 ---
-
-![casetree](https://user-images.githubusercontent.com/35347777/149365123-7cfdf716-9147-4d2f-b24e-e51a94d8ac33.PNG)
  
+![casetree](https://user-images.githubusercontent.com/35347777/154798555-7ad3fed8-950e-4906-b479-b71cae72d95c.png)
 
 **Sonuç :** `Başarılı bir şekilde her sayfada 60 ürün geldiği görülmüştür. ✅`
 
@@ -119,8 +118,8 @@ https://user-images.githubusercontent.com/35347777/149663530-d911c7b9-b66a-498e-
 
 #### 📝 SpecFlow LivingDoc Raporu
 ---
- 
-![casefour](https://user-images.githubusercontent.com/35347777/149365308-c5121813-9df9-4a8f-b23a-dd5657b0e51e.PNG)
+  
+![casefour](https://user-images.githubusercontent.com/35347777/154798569-0e71d5e8-19b2-4011-b877-ed79dcf6c3f3.png)
 
 
 **Sonuç :** `Başarılı bir şekilde OXXO ile ödeme yapıldığı görülmüştür. ✅`
@@ -142,8 +141,8 @@ https://user-images.githubusercontent.com/35347777/149663465-b068750e-6b2e-413a-
   
 #### 📝 SpecFlow LivingDoc Raporu
 ---
-
- ![casefive](https://user-images.githubusercontent.com/35347777/149365533-dd9ee7ab-5562-4326-b3f1-3bb0609468c0.PNG)
+ 
+![casefive](https://user-images.githubusercontent.com/35347777/154798587-5d2154f3-7f6d-4976-8af5-0faccdec959c.png)
 
 
 **Sonuç :** `Ürün kişiselleştirilip başarılı bir şekilde sepete eklendiği görülmüştür. ✅`
@@ -165,8 +164,8 @@ https://user-images.githubusercontent.com/35347777/149663471-fd8ce362-ce8e-4764-
  
 #### 📝 SpecFlow Living Raporu
 ---
-
- ![casesix](https://user-images.githubusercontent.com/35347777/149365731-a64a7b20-c0d0-49af-8cfa-48b6c10e3cc6.PNG)
+ 
+![casesix](https://user-images.githubusercontent.com/35347777/154798595-b0dd7133-14d0-457f-ba66-cb02ce9fc6b3.png)
 
 
 **Sonuç :** `Menü linklerin birinde kırık link tespit edilmiştir. (https://www.mizu.com/new-products-gourmet) ❌`
