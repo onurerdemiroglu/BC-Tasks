@@ -14,7 +14,21 @@ Tüm testleri koşmak için : `dotnet test`
 
 Tag'a bağlı testleri koşmak için : `dotnet test --filter Category=casetag`
  
+### Database [Bimser]
+--- 
+  
+```Sql
+dbo.Log
 
+[ID] [int] IDENTITY(1,1) NOT NULL,
+[Title] [nvarchar](max) NULL,
+[Step] [nvarchar](max) NULL,
+[Detail] [nvarchar](max) NULL,
+[Status] [bit] NULL,
+[RunTime] [datetime] NULL
+```
+
+![sql](https://user-images.githubusercontent.com/35347777/154800404-4c2a070f-96bc-4b3b-b170-17ada4489f9b.PNG)
 
 ### 👨🏿‍💻 Senaryo-1 : Geçerli Oturum Açma Kontrolü
 ---
