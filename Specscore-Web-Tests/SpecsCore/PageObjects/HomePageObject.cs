@@ -12,8 +12,8 @@ public class HomePageObject
     public static class HomePageLocator
     {
         public static readonly By SubHeaderOverlay = By.CssSelector(".js-subheader-overlay");
-        public static readonly By UserMenu = By.CssSelector(".user-menu__icon--account");
-        public static readonly By MyAccountMenu = By.CssSelector(".user-menu__icon--account");
+        public static readonly By UserMenu = By.CssSelector(".user-process-toggle");
+        public static readonly By MyAccountMenu = By.CssSelector(".user-process-toggle");
         public static readonly By SignInButton = By.ClassName("users-process-list__btn");
     }
 }
