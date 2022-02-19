@@ -28,7 +28,7 @@ Scenario: Valid User Login Control
     And   I go to login page
     And   I logged in with the following data:
         | email                | password |
-        | sirdonespe@vusra.com | bootcamp |
+        | pulmotirti@vusra.com | bimser |
     Then  I should see My Account section
 ```
 
